@@ -1,0 +1,6 @@
+HomeUrl=http://localhost/Booking/
+RelativeHomeUrl=/Booking/index.php
+PartnerUrl=http://127.0.0.1:3301/Tuxor/
+PartnerAccessToken=none
+PartnerName=Tuxor
+PartnerId=tuxor@tripthru.com
